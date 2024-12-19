@@ -1,7 +1,7 @@
 Mini Projeto com dados de RH
 
-Análises Feitas
-
+    Análises Realizadas
+    
     Headcount da empresa
     Média salarial por cargo
     Quantidade de funcionários por cargo
