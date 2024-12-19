@@ -1,4 +1,4 @@
-Mini Projeto com dados de RH
+Mini Projeto com dados de RH extraído no Kaggle
 
 Análises Feitas
 
